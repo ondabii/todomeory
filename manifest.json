@@ -1,6 +1,6 @@
 {
-    "name": "todomeory2",
-    "short_name": "todomeory2",
+    "name": "todomeory",
+    "short_name": "todomeory",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

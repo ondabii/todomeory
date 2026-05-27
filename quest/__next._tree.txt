@@ -1,2 +1,2 @@
-:HL["/todomeory/_next/static/chunks/0u10txspjpz6g.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"quest","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"-n0tfesAlbzTcNu09AXmu"}
+:HL["/todomeory/_next/static/chunks/174bg5r~1hff~.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"quest","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Mv-faq35-D3aykhZkdRo1"}

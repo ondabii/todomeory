@@ -1,5 +1,0 @@
-1:"$Sreact.fragment"
-2:I[39756,["/todomeory/_next/static/chunks/0c.66x_2s-zs~.js","/todomeory/_next/static/chunks/0bcdt6p547gd5.js","/todomeory/_next/static/chunks/0d3shmwh5_nmn.js","/todomeory/_next/static/chunks/18999cwak~b-7.js"],"default"]
-3:I[37457,["/todomeory/_next/static/chunks/0c.66x_2s-zs~.js","/todomeory/_next/static/chunks/0bcdt6p547gd5.js","/todomeory/_next/static/chunks/0d3shmwh5_nmn.js","/todomeory/_next/static/chunks/18999cwak~b-7.js"],"default"]
-4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"cCVo5Cg5mq10Lo_HqrJmm"}
